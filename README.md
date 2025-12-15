@@ -1,0 +1,1 @@
+![CI](https://github.com/makikor/task27/actions/workflows/web.yml/badge.svg)
